@@ -1,7 +1,7 @@
 # Talycap-Global-LogisticsManagementBACKEND
 ![image](https://github.com/JhonHeiler/Talycap-Global-LogisticsManagementBACKEND/assets/89054795/409c23d0-75be-4637-96f8-d9d81b7dc5b6)
 
-Para desarrollar la aplicación con Spring Boot, JPA, MySQL, una arquitectura clara y Angular, puedes seguir los siguientes pasos:
+Desarrolle la aplicación con Spring Boot, JPA, MySQL, clean architecture y Angular:
 
 1. Diseño y planificación:
    - Analiza los requisitos del enunciado y define los modelos de datos necesarios.
